@@ -1,0 +1,18 @@
+
+** (lightdm:2587): WARNING **: Failed to get list of logind seats: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.freedesktop.login1: Permission denied
+
+** (lightdm:2587): WARNING **: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.freedesktop.Accounts: Permission denied
+
+** (lightdm:2587): WARNING **: Failed to read password database: No such file or directory
+
+** (lightdm:3954): WARNING **: Failed to get list of logind seats: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.freedesktop.login1: Permission denied
+
+** (lightdm:3954): WARNING **: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.freedesktop.Accounts: Permission denied
+
+** (lightdm:3954): WARNING **: Failed to read password database: No such file or directory
+
+** (lightdm:4512): WARNING **: Failed to get list of logind seats: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.freedesktop.login1: Permission denied
+
+** (lightdm:4512): WARNING **: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.freedesktop.Accounts: Permission denied
+
+** (lightdm:4512): WARNING **: Failed to read password database: No such file or directory

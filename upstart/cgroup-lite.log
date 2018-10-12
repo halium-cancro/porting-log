@@ -1,0 +1,23 @@
+mount: cgroup is already mounted or /sys/fs/cgroup/cpuset busy
+       cgroup is already mounted on /sys/fs/cgroup/cpuset
+rmdir: failed to remove '/sys/fs/cgroup/cpuset': Device or resource busy
+mount: cgroup is already mounted or /sys/fs/cgroup/freezer busy
+       cgroup is already mounted on /sys/fs/cgroup/cpuset
+       cgroup is already mounted on /sys/fs/cgroup/debug
+       cgroup is already mounted on /sys/fs/cgroup/cpu
+       cgroup is already mounted on /sys/fs/cgroup/cpuacct
+       cgroup is already mounted on /sys/fs/cgroup/memory
+       cgroup is already mounted on /sys/fs/cgroup/devices
+       cgroup is already mounted on /sys/fs/cgroup/freezer
+rmdir: failed to remove '/sys/fs/cgroup/freezer': Device or resource busy
+mount: cgroup is already mounted or /sys/fs/cgroup/perf_event busy
+       cgroup is already mounted on /sys/fs/cgroup/cpuset
+       cgroup is already mounted on /sys/fs/cgroup/debug
+       cgroup is already mounted on /sys/fs/cgroup/cpu
+       cgroup is already mounted on /sys/fs/cgroup/cpuacct
+       cgroup is already mounted on /sys/fs/cgroup/memory
+       cgroup is already mounted on /sys/fs/cgroup/devices
+       cgroup is already mounted on /sys/fs/cgroup/freezer
+       cgroup is already mounted on /sys/fs/cgroup/blkio
+       cgroup is already mounted on /sys/fs/cgroup/perf_event
+rmdir: failed to remove '/sys/fs/cgroup/perf_event': Device or resource busy

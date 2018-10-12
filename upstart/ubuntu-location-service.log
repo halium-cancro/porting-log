@@ -1,0 +1,135 @@
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:47.890643  1299 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:51.494222  2088 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:53.937628  2465 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:55.191501  2917 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:56.163072  3255 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:57.056399  3437 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:58.056711  3552 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:47:59.038965  3660 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:00.011652  3789 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:01.965514  4032 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:03.126750  4274 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:04.221086  4302 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:05.465070  4383 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:06.610512  4418 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:07.857031  4532 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:09.003276  4564 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:10.095614  4588 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:11.309907  4614 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:12.514308  4645 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:13.728507  4690 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:13.816890  4704 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:13.904409  4708 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:13.992312  4715 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:14.080904  4719 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:14.171420  4725 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:14.261194  4729 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider
+	name -> com.wolfpack.geoclue2.Service.Provider
+	path -> /com/wolfpack/geoclue2/Service/Provider
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1012 13:48:14.347964  4734 boost_ptree_settings.cpp:36] Could not parse configuration file /var/lib/ubuntu-location-service/config.ini: /var/lib/ubuntu-location-service/config.ini: cannot open file
+Instantiating and configuring: gps::Provider

@@ -1,0 +1,10 @@
+   lxc-monitord 20181012134745.288 INFO     lxc_monitor - monitor.c:lxc_monitor_sock_name:201 - using monitor socket name "lxc/ad055575fe28ddd5//var/lib/lxc" (length of socket name 33 must be <= 105)
+   lxc-monitord 20181012134745.289 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /var/lib/lxc.
+   lxc-monitord 20181012134745.290 NOTICE   lxc_monitord - lxc_monitord.c:main:422 - lxc-monitord with pid 1036 is now monitoring lxcpath /var/lib/lxc.
+   lxc-monitord 20181012134745.292 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 6. Number of accepted file descriptors is now 1.
+   lxc-monitord 20181012134745.302 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 9. Number of accepted file descriptors is now 2.
+   lxc-monitord 20181012134745.303 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /var/lib/lxc.
+   lxc-monitord 20181012134745.305 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 10. Number of accepted file descriptors is now 3.
+   lxc-monitord 20181012134745.352 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 11. Number of accepted file descriptors is now 4.
+   lxc-monitord 20181012134813.650 DEBUG    lxc_monitord - lxc_monitord.c:lxc_monitord_fifo_create:108 - lxc-monitord already running on lxcpath /var/lib/lxc.
+   lxc-monitord 20181012134813.653 INFO     lxc_monitord - lxc_monitord.c:lxc_monitord_sock_accept:222 - Accepted client file descriptor 6. Number of accepted file descriptors is now 1.

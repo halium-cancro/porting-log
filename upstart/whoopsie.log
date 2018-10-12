@@ -1,0 +1,3 @@
+wait-for-state stop/waiting
+[13:48:12] Using lock path: /var/lock/whoopsie/lock
+[13:48:12] offline

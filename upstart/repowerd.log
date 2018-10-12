@@ -1,0 +1,12 @@
+Error org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.powerd was not provided by any .service files
+Error org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.powerd was not provided by any .service files
+Loading module: 'libubuntu_application_api_touch_mirclient.so.3.0.0'
+Error org.freedesktop.DBus.Error.ServiceUnknown: The name com.canonical.powerd was not provided by any .service files
+method return time=1539352068.533063 sender=:1.10 -> destination=:1.16 serial=10 reply_serial=2
+   struct {
+      int32 10
+      int32 2
+      int32 255
+      int32 102
+      boolean true
+   }

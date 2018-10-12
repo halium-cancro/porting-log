@@ -1,0 +1,19 @@
+mount: cgroup is already mounted or /sys/fs/cgroup/debug busy
+       cgroup is already mounted on /sys/fs/cgroup/cpuset
+       cgroup is already mounted on /sys/fs/cgroup/debug
+rmdir: failed to remove 'debug': Device or resource busy
+mount: cgroup is already mounted or /sys/fs/cgroup/cpuacct busy
+       cgroup is already mounted on /sys/fs/cgroup/cpuset
+       cgroup is already mounted on /sys/fs/cgroup/debug
+       cgroup is already mounted on /sys/fs/cgroup/cpu
+       cgroup is already mounted on /sys/fs/cgroup/cpuacct
+rmdir: failed to remove 'cpuacct': Device or resource busy
+mount: cgroup is already mounted or /sys/fs/cgroup/memory busy
+       cgroup is already mounted on /sys/fs/cgroup/cpuset
+       cgroup is already mounted on /sys/fs/cgroup/debug
+       cgroup is already mounted on /sys/fs/cgroup/cpu
+       cgroup is already mounted on /sys/fs/cgroup/cpuacct
+       cgroup is already mounted on /sys/fs/cgroup/memory
+rmdir: failed to remove 'memory': Device or resource busy
+rmdir: failed to remove 'cgmanager': Directory not empty
+rmdir: failed to remove 'cgmanager.lower': Directory not empty

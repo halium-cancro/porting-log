@@ -1,0 +1,13 @@
+      lxc-start 20181012134745.802 ERROR    lxc_start - start.c:preserve_ns:153 - No such file or directory - Kernel does not support attaching to pid namespaces.
+      lxc-start 20181012134818.659 ERROR    lxc_commands - commands.c:lxc_cmd_stop_callback:654 - Failed to unfreeze container "android".
+      lxc-start 20181012134824.498 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/cpuset//lxc/android
+      lxc-start 20181012134824.499 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/debug//lxc/android
+      lxc-start 20181012134824.500 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/cpu//lxc/android
+      lxc-start 20181012134824.500 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/cpuacct//lxc/android
+      lxc-start 20181012134824.501 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/memory//lxc/android
+      lxc-start 20181012134824.501 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/devices//lxc/android
+      lxc-start 20181012134824.502 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/freezer//lxc/android
+      lxc-start 20181012134824.502 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/blkio//lxc/android
+      lxc-start 20181012134824.503 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/perf_event//lxc/android
+      lxc-start 20181012134824.503 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/bfqio//lxc/android
+      lxc-start 20181012134824.504 ERROR    lxc_cgfsng - cgroups/cgfsng.c:recursive_destroy:1288 - Error destroying /sys/fs/cgroup/systemd//lxc/android

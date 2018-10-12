@@ -1,0 +1,4 @@
+lxc-wait: monitor.c: lxc_monitor_open: 237 Failed to connect to monitor socket. Retrying in 10 ms: Connection refused
+lxc-wait: monitor.c: lxc_monitor_open: 237 Failed to connect to monitor socket. Retrying in 50 ms: Connection refused
+lxc-wait: monitor.c: lxc_monitor_open: 237 Failed to connect to monitor socket. Retrying in 100 ms: Connection refused
+cgroup-lite stop/waiting

@@ -1,0 +1,84 @@
+2018-10-12T13:47:46.916081+00:00 ubuntu-phablet repowerd[1302]: main: Starting repowerd 2016.10.1
+2018-10-12T13:47:47.599306+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Failed to create AndroidBacklight: Failed to open Android lights module
+2018-10-12T13:47:47.599338+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Trying SysfsBacklight
+2018-10-12T13:47:47.600131+00:00 ubuntu-phablet repowerd[1302]: SysfsBacklight: Using backlight /sys/class/leds/lcd-backlight
+2018-10-12T13:47:47.947990+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Failed to create UbuntuLightSensor: Failed to allocate light sensor
+2018-10-12T13:47:47.948078+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Falling back to NullLightSensor
+2018-10-12T13:47:47.948151+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: parse_file(/usr/share/powerd/device_configs/config-default.xml)
+2018-10-12T13:47:47.952474+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: parse_file(/usr/share/repowerd/device-configs/config-cancro.xml)
+2018-10-12T13:47:47.953628+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: bluetooth_operating_voltage_mv=3700
+2018-10-12T13:47:47.953698+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: powerDecoupleInteractiveModeFromDisplay=true
+2018-10-12T13:47:47.953753+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: dozeAfterScreenOff=true
+2018-10-12T13:47:47.953804+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: screenBrightnessDoze=5
+2018-10-12T13:47:47.953852+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: keyboardTapVibePattern=25
+2018-10-12T13:47:47.953918+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: device_vt_available=true
+2018-10-12T13:47:47.953967+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: carrier_volte_available=true
+2018-10-12T13:47:47.954018+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: cellBroadcastAppLinks=true
+2018-10-12T13:47:47.954067+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: digitalPenCapable=true
+2018-10-12T13:47:47.954118+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: screenBrightnessDim=10
+2018-10-12T13:47:47.954168+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: wifi_dual_band_support=true
+2018-10-12T13:47:47.954217+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: skip_restoring_network_selection=true
+2018-10-12T13:47:47.954273+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: autoBrightnessLevels=2,7,15,50,100,200,400,1000,2000,3000,5000,10000,30000
+2018-10-12T13:47:47.954323+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: carrier_vt_available=true
+2018-10-12T13:47:47.954372+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: deviceHardwareWakeKeys=64
+2018-10-12T13:47:47.954426+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: automatic_brightness_available=true
+2018-10-12T13:47:47.954478+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: defaultNotificationLedOn=500
+2018-10-12T13:47:47.954528+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: unplugTurnsOnScreen=true
+2018-10-12T13:47:47.954580+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: wifiDisplaySupportsProtectedBuffers=true
+2018-10-12T13:47:47.954810+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: bluetooth_le_peripheral_mode_supported=true
+2018-10-12T13:47:47.954866+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: speed_up_audio_on_mt_calls=true
+2018-10-12T13:47:47.955266+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: deviceHasVariableButtonBrightness=true
+2018-10-12T13:47:47.955327+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: virtualKeyVibePattern=0,25,8
+2018-10-12T13:47:47.955380+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: deviceHardwareKeys=71
+2018-10-12T13:47:47.955431+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: longPressOnHomeBehavior=3
+2018-10-12T13:47:47.955480+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: longPressOnMenuBehavior=2
+2018-10-12T13:47:47.955543+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: radioScanningTimeout=0
+2018-10-12T13:47:47.955593+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: enableAutoPowerModes=true
+2018-10-12T13:47:47.955643+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: screenBrightnessSettingMaximum=255
+2018-10-12T13:47:47.955696+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: wifi_background_scan_support=true
+2018-10-12T13:47:47.955747+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: screenBrightnessSettingMinimum=2
+2018-10-12T13:47:47.955955+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: wifi_batched_scan_supported=true
+2018-10-12T13:47:47.956010+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: tether_upstream_types=0,1,4,5,7
+2018-10-12T13:47:47.956214+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: safe_media_volume_index=9
+2018-10-12T13:47:47.956267+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: enableWifiDisplay=true
+2018-10-12T13:47:47.956487+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: supportDoubleTapWake=true
+2018-10-12T13:47:47.956541+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: defaultNotificationLedOff=5000
+2018-10-12T13:47:47.956722+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: ui_enableFadingMarquee=false
+2018-10-12T13:47:47.956773+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: intrusiveNotificationLed=true
+2018-10-12T13:47:47.956823+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: feature_iwlan_enabled=true
+2018-10-12T13:47:47.957128+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: intrusiveBatteryLed=true
+2018-10-12T13:47:47.957193+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: doubleTapOnHomeBehavior=0
+2018-10-12T13:47:47.957243+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: lidControlsSleep=true
+2018-10-12T13:47:47.957293+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: suspendWhenScreenOffDueToProximity=true
+2018-10-12T13:47:47.961325+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: hotswapCapable=true
+2018-10-12T13:47:47.961718+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: device_volte_available=false
+2018-10-12T13:47:47.961844+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: multiuserMaximumUsers=4
+2018-10-12T13:47:47.961965+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: enableMultiUserUI=true
+2018-10-12T13:47:47.962080+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: camera_sound_forced=true
+2018-10-12T13:47:47.962367+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: autoBrightnessLcdBacklightValues=13,25,32,41,52,62,69,78,88,134,178,225,255,255
+2018-10-12T13:47:47.962501+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: screenBrightnessSettingDefault=102
+2018-10-12T13:47:47.962620+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: useDevInputEventForAudioJack=true
+2018-10-12T13:47:47.962961+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceConfig: Property: longPressVibePattern=0,25,10
+2018-10-12T13:47:47.963607+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceQuirks: DeviceName: cancro
+2018-10-12T13:47:47.964492+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceQuirks: Quirk: synthetic_initial_proximit_event_delay=500
+2018-10-12T13:47:47.964627+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceQuirks: Quirk: synthetic_initial_proximit_event_type=near
+2018-10-12T13:47:47.964741+00:00 ubuntu-phablet repowerd[1302]: AndroidDeviceQuirks: Quirk: normal_before_display_on_autobrightness=true
+2018-10-12T13:47:47.973115+00:00 ubuntu-phablet repowerd[1302]: LibsuspendSuspendControl: Initialized using backend autosleep
+2018-10-12T13:47:48.070972+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Failed to create UbuntuProximitySensor: Failed to allocate proximity sensor
+2018-10-12T13:47:48.070996+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Falling back to NullProximitySensor
+2018-10-12T13:47:48.076109+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Failed to create UbuntuPerformanceBooster: Failed to create ubuntu performance booster
+2018-10-12T13:47:48.076136+00:00 ubuntu-phablet repowerd[1302]: DefaultDaemonConfig: Falling back to NullPerformanceBooster
+2018-10-12T13:47:48.119374+00:00 ubuntu-phablet repowerd[1302]: UPowerPowerSource: add_existing_batteries() failed to EnumerateDevices: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ExecFailed: Failed to execute program org.freedesktop.UPower: Permission denied
+2018-10-12T13:47:48.126527+00:00 ubuntu-phablet repowerd[1302]: DefaultStateMachine: handle_turn_on_display
+2018-10-12T13:47:48.126552+00:00 ubuntu-phablet repowerd[1302]: LibsuspendSuspendControl: disallow_suspend(DefaultStateMachine)
+2018-10-12T13:47:48.126577+00:00 ubuntu-phablet repowerd[1302]: LibsuspendSuspendControl: exiting suspend
+2018-10-12T13:47:48.126643+00:00 ubuntu-phablet repowerd[1302]: UnityDisplayPowerControl: turn_on()
+2018-10-12T13:47:48.128155+00:00 ubuntu-phablet repowerd[1302]: BacklightBrightnessControl: Transitioning brightness 1.00 => 0.40 in 60.00 steps 1000.00us each
+2018-10-12T13:47:48.201390+00:00 ubuntu-phablet repowerd[1302]: BacklightBrightnessControl: Transitioning brightness 1.00 => 0.40 done
+2018-10-12T13:47:48.201582+00:00 ubuntu-phablet repowerd[1302]: UnityScreenService: dbus_emit_brightness(0.400000), brightness_value=102
+2018-10-12T13:47:48.202000+00:00 ubuntu-phablet repowerd[1302]: UnityScreenService: dbus_emit_DisplayPowerStateChange(1,0)
+2018-10-12T13:47:48.532557+00:00 ubuntu-phablet repowerd[1302]: UnityScreenService: dbus_getBrightnessParams() => (10,2,255,102,true)
+2018-10-12T13:47:48.923553+00:00 ubuntu-phablet repowerd[1302]: UnityScreenService: dbus_keepDisplayOn(:1.17)
+2018-10-12T13:47:48.923592+00:00 ubuntu-phablet repowerd[1302]: UnityScreenService: dbus_keepDisplayOn(:1.17) => 1
+2018-10-12T13:47:48.923940+00:00 ubuntu-phablet repowerd[1302]: DefaultStateMachine: handle_disable_inactivity_timeout
+2018-10-12T13:48:12.268982+00:00 ubuntu-phablet repowerd[1302]: OfonoVoiceCallService: dbus_ModemAdded(/ril_0)

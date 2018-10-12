@@ -1,0 +1,48 @@
+[2018-10-12 13:47:54.387078] mirplatform: Found graphics driver: mir:android (version 0.24.2)
+Warning: ignoring unrecognised arguments: --enable-num-framebuffers-quirk=true --disable-overlays=false --vt 1
+[2018-10-12 13:47:54.399731] mirserver: Starting
+[2018-10-12 13:47:54.400277] mircommon: Loading modules from: /usr/lib/arm-linux-gnueabihf/mir/server-platform
+[2018-10-12 13:47:54.400424] mircommon: Loading module: /usr/lib/arm-linux-gnueabihf/mir/server-platform/graphics-android.so.10
+[2018-10-12 13:47:54.401718] mircommon: Loading module: /usr/lib/arm-linux-gnueabihf/mir/server-platform/input-evdev.so.5
+[2018-10-12 13:47:54.405614] mirplatform: Found graphics driver: mir:android (version 0.24.2)
+ERROR: /build/mir-0.24.20ubuntu11+ubports+0~20180312130613.14~1.gbp8ec514/src/server/graphics/default_configuration.cpp(132): Throw in function mir::DefaultServerConfiguration::the_graphics_platform()::<lambda()>
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<std::runtime_error> >
+std::exception::what: Exception while creating graphics platform
+ERROR: /build/mir-0.24.20ubuntu11+ubports+0~20180312130613.14~1.gbp8ec514/src/platform/graphics/platform_probe.cpp(63): Throw in function std::shared_ptr<mir::SharedLibrary> mir::graphics::module_for_device(const std::vector<std::shared_ptr<mir::SharedLibrary> >&, const mir::options::ProgramOption&)
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<std::runtime_error> >
+std::exception::what: Failed to find platform for current system
+
+
+
+[2018-10-12 13:48:00.900623] mirplatform: Found graphics driver: mir:android (version 0.24.2)
+Warning: ignoring unrecognised arguments: --enable-num-framebuffers-quirk=true --disable-overlays=false --vt 1
+[2018-10-12 13:48:00.903244] mirserver: Starting
+[2018-10-12 13:48:00.903812] mircommon: Loading modules from: /usr/lib/arm-linux-gnueabihf/mir/server-platform
+[2018-10-12 13:48:00.903994] mircommon: Loading module: /usr/lib/arm-linux-gnueabihf/mir/server-platform/graphics-android.so.10
+[2018-10-12 13:48:00.905356] mircommon: Loading module: /usr/lib/arm-linux-gnueabihf/mir/server-platform/input-evdev.so.5
+[2018-10-12 13:48:00.909952] mirplatform: Found graphics driver: mir:android (version 0.24.2)
+ERROR: /build/mir-0.24.20ubuntu11+ubports+0~20180312130613.14~1.gbp8ec514/src/server/graphics/default_configuration.cpp(132): Throw in function mir::DefaultServerConfiguration::the_graphics_platform()::<lambda()>
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<std::runtime_error> >
+std::exception::what: Exception while creating graphics platform
+ERROR: /build/mir-0.24.20ubuntu11+ubports+0~20180312130613.14~1.gbp8ec514/src/platform/graphics/platform_probe.cpp(63): Throw in function std::shared_ptr<mir::SharedLibrary> mir::graphics::module_for_device(const std::vector<std::shared_ptr<mir::SharedLibrary> >&, const mir::options::ProgramOption&)
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<std::runtime_error> >
+std::exception::what: Failed to find platform for current system
+
+
+
+[2018-10-12 13:48:07.432257] mirplatform: Found graphics driver: mir:android (version 0.24.2)
+Warning: ignoring unrecognised arguments: --enable-num-framebuffers-quirk=true --disable-overlays=false --vt 1
+[2018-10-12 13:48:07.434846] mirserver: Starting
+[2018-10-12 13:48:07.435416] mircommon: Loading modules from: /usr/lib/arm-linux-gnueabihf/mir/server-platform
+[2018-10-12 13:48:07.435604] mircommon: Loading module: /usr/lib/arm-linux-gnueabihf/mir/server-platform/graphics-android.so.10
+[2018-10-12 13:48:07.436928] mircommon: Loading module: /usr/lib/arm-linux-gnueabihf/mir/server-platform/input-evdev.so.5
+[2018-10-12 13:48:07.451624] mirplatform: Found graphics driver: mir:android (version 0.24.2)
+ERROR: /build/mir-0.24.20ubuntu11+ubports+0~20180312130613.14~1.gbp8ec514/src/server/graphics/default_configuration.cpp(132): Throw in function mir::DefaultServerConfiguration::the_graphics_platform()::<lambda()>
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<std::runtime_error> >
+std::exception::what: Exception while creating graphics platform
+ERROR: /build/mir-0.24.20ubuntu11+ubports+0~20180312130613.14~1.gbp8ec514/src/platform/graphics/platform_probe.cpp(63): Throw in function std::shared_ptr<mir::SharedLibrary> mir::graphics::module_for_device(const std::vector<std::shared_ptr<mir::SharedLibrary> >&, const mir::options::ProgramOption&)
+Dynamic exception type: boost::exception_detail::clone_impl<boost::exception_detail::error_info_injector<std::runtime_error> >
+std::exception::what: Failed to find platform for current system
+
+
+

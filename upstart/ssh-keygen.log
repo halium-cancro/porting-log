@@ -1,0 +1,36 @@
+touch: cannot touch '/etc/ssh/testfile': Read-only file system
+touch: cannot touch '/etc/ssh/testfile': Read-only file system
+Generating public/private rsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_rsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_rsa_key.pub.
+The key fingerprint is:
+SHA256:AH/KQwib7gLRKV8Jxd0PFf6p36e74W7on8A/lure0N0 root@ubuntu-phablet
+The key's randomart image is:
++---[RSA 2048]----+
+|  ooo. . .o.     |
+| . *.=. o.       |
+|o = + + .o.      |
+| = . o +  .. .   |
+|. o   + S   o    |
+|..     .   o . ..|
+|. .       . +.o.E|
+| .         ..B=o.|
+|           +**%* |
++----[SHA256]-----+
+Generating public/private dsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_dsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_dsa_key.pub.
+The key fingerprint is:
+SHA256:NJy57B6epa9WST67jmYtjNLZHKznhkAntesr5WV3vXQ root@ubuntu-phablet
+The key's randomart image is:
++---[DSA 1024]----+
+|                 |
+|      .. o       |
+|     . .*        |
+|    o oo o.      |
+|   . o oSo . .   |
+|    . o.= * . o E|
+|     * @o=.+ . o |
+|    o Oo@*o   .  |
+|     o.OO=+.     |
++----[SHA256]-----+

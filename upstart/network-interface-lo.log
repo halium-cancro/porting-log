@@ -1,0 +1,2 @@
+ifup: waiting for lock on /run/network/ifstate.lo
+ifup: interface lo already configured
